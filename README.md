@@ -32,4 +32,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Nikhil Singh
+Maxx
